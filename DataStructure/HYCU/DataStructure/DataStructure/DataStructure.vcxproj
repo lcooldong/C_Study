@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="4_5.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="week3.c" />
     <ClCompile Include="week2.c" />
     <ClCompile Include="4_4.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="4_5.h" />
     <ClInclude Include="week2.h" />
     <ClInclude Include="week3.h" />
     <ClInclude Include="4_4.h" />
