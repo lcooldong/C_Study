@@ -1,4 +1,6 @@
-﻿  week3.c
-C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\week3.c(9,50): warning C4311: '형식 캐스트': 'char [20]'에서 'int'(으)로 포인터가 잘립니다.
-C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\week3.c(9,64): warning C4311: '형식 캐스트': 'char *'에서 'int'(으)로 포인터가 잘립니다.
-  DataStructure.vcxproj -> C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\x64\Debug\DataStructure.exe
+﻿  5_3.c
+C:\Users\lcd_sub\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\5_3.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\lcd_sub\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\5_3.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '5_3.c'을(를) 컴파일하는 중)
+  
+  DataStructure.vcxproj -> C:\Users\lcd_sub\Github\C_Study\DataStructure\HYCU\DataStructure\x64\Debug\DataStructure.exe

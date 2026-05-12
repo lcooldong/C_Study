@@ -13,48 +13,93 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\LinkedList">
-      <UniqueIdentifier>{afaee156-2354-48e2-b4e0-b7ec89715c39}</UniqueIdentifier>
+    <Filter Include="헤더 파일\Week4">
+      <UniqueIdentifier>{57324fda-5ca4-44cf-b33c-c52fe0aaec0b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="헤더 파일\LinkedList">
-      <UniqueIdentifier>{97174958-f767-49a0-9aa4-397337f5d996}</UniqueIdentifier>
+    <Filter Include="헤더 파일\Week5">
+      <UniqueIdentifier>{4898e4dc-b30f-4f5d-bbfb-be0608f2aec2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\week1to3">
+    <Filter Include="소스 파일\Week4">
+      <UniqueIdentifier>{3425b277-03ca-4e49-97a2-5436858947c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week5">
+      <UniqueIdentifier>{67fe6b1c-41e8-4bd1-b4ab-9565ca7392b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Week1to3">
+      <UniqueIdentifier>{67f1b113-027f-4198-b752-1bf252e2fe2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week1to3">
       <UniqueIdentifier>{16ebfb7b-8450-446b-9a54-1819d8e669b6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="헤더 파일\week1to3_h">
-      <UniqueIdentifier>{550795c0-6384-4969-8ec7-9687603af364}</UniqueIdentifier>
+    <Filter Include="소스 파일\Week6">
+      <UniqueIdentifier>{9cabb862-f973-44cc-abe9-fa5e0c6f8044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Week6">
+      <UniqueIdentifier>{8310cb6c-bdaa-492e-b324-29c9872658a1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4_4.c">
-      <Filter>소스 파일\LinkedList</Filter>
-    </ClCompile>
     <ClCompile Include="week2.c">
-      <Filter>소스 파일\week1to3</Filter>
+      <Filter>소스 파일\Week1to3</Filter>
     </ClCompile>
     <ClCompile Include="week3.c">
-      <Filter>소스 파일\week1to3</Filter>
+      <Filter>소스 파일\Week1to3</Filter>
     </ClCompile>
-    <ClCompile Include="4_5.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Week4\4_4.c">
+      <Filter>소스 파일\Week4</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4\4_5.c">
+      <Filter>소스 파일\Week4</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4\4_6.c">
+      <Filter>소스 파일\Week4</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5\5_1.c">
+      <Filter>소스 파일\Week5</Filter>
+    </ClCompile>
+    <ClCompile Include="5_3.c">
+      <Filter>소스 파일\Week5</Filter>
+    </ClCompile>
+    <ClCompile Include="5_2.c">
+      <Filter>소스 파일\Week5</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularLinkedList.c">
+      <Filter>소스 파일\Week6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="4_4.h">
-      <Filter>헤더 파일\LinkedList</Filter>
+    <ClInclude Include="Week4\4_4.h">
+      <Filter>헤더 파일\Week4</Filter>
+    </ClInclude>
+    <ClInclude Include="Week4\4_5.h">
+      <Filter>헤더 파일\Week4</Filter>
+    </ClInclude>
+    <ClInclude Include="Week4\4_6.h">
+      <Filter>헤더 파일\Week4</Filter>
+    </ClInclude>
+    <ClInclude Include="Week5\5_1.h">
+      <Filter>헤더 파일\Week5</Filter>
     </ClInclude>
     <ClInclude Include="week2.h">
-      <Filter>헤더 파일\week1to3_h</Filter>
+      <Filter>헤더 파일\Week1to3</Filter>
     </ClInclude>
     <ClInclude Include="week3.h">
-      <Filter>헤더 파일\week1to3_h</Filter>
+      <Filter>헤더 파일\Week1to3</Filter>
     </ClInclude>
-    <ClInclude Include="4_5.h">
-      <Filter>헤더 파일</Filter>
+    <ClInclude Include="5_2.h">
+      <Filter>헤더 파일\Week5</Filter>
+    </ClInclude>
+    <ClInclude Include="5_3.h">
+      <Filter>헤더 파일\Week5</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularLinkedList.h">
+      <Filter>헤더 파일\Week6</Filter>
+    </ClInclude>
+    <ClInclude Include="Member.h">
+      <Filter>헤더 파일\Week6</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
